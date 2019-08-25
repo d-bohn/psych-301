@@ -44,7 +44,7 @@ ggplot(data, aes(x = key, y = value)) +
 ```
 
 With just a few lines of code, I can display data and text for your viewing pleasure that is both easily
-digestible, and easy for me produce. Of course, you are not responsible for knowing any of the code, this
+digestible, and easy for me to produce. Of course, you are not responsible for knowing any of the code, this
 is purely an exercise in presenting supplemental information to you. As time permits, I will be producing
 reports on average grades (no identifying information), common mistakes, and additional commentary on things
 I think should be highlighted for your learning.
