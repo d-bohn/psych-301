@@ -17,6 +17,26 @@ Hello everyone,
 Welcome to PSYCH 301W, Basic Research Methods in Psychology. My name is Daniel Albohn (you can call me Dan, Professor Albohn,
 Professor Dan, whatever you feel comfortable with) and I will be your instructor for the course. 
 
+Before I get lost in research methods and statistics, let me tell you a little bit about myself. My professional expertise and
+passion is social psychology, with an emphasis on person and face perception. I have over eight years of academic
+research experience that spans fields as diverse as health psychology, clinical psychology, behavioral interventions,
+human-animal bond, and person and emotion perception. Currently, my research focuses on utilizing computer vision and
+machine learning to predict subtle facial expressions and expression resemblance and how to utilize such technology in
+behavioral science.
+
+When I am not working, I enjoy hiking and being outdoors and hanging out with my dog, Jean. Speaking of Jean, let me
+introduce you to her:
+
+<center>
+
+![](imgs/statistics_jean.png)
+
+</center>
+
+And that's not "dog shaming" because I know for a fact she likes research methods. Jean is a rescue from a local
+shelter and has severe social anxiety. I'll try and get her to make a few appearances over the course of the
+semester, though.
+
 I began my graduate career as a Clinical Psychology student, but quickly switched to Social Psychology after I had a
 moment of clarity in which I realized I loved looking at data! I loved it so much that I would often dread going to
 therapy sessions with clients in favor of sitting in my office and examining the ins and outs of the data I was
