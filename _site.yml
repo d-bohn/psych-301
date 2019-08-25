@@ -1,0 +1,18 @@
+name: "PSYCH 301: Basic Research Methods in Psychology"
+navbar:
+  title: "PSYCH 301"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Welcome to Research Methods"
+      href: welcome.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    code_folding: hide

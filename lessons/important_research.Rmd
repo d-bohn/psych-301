@@ -1,0 +1,112 @@
+---
+title: "Why should I care about research methods?"
+logo: ../img/psu-logo.png
+css: ../css/dna.css
+bibliography: ../bib/psych_301.bib
+csl: ../csl/apa_5th.csl
+output: 
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_depth: 4
+    toc_float: no
+    code_folding: hide
+---
+
+<center>
+
+![](../imgs/bad_methods.png)
+
+</center>
+
+Research methods and statistics can seem like a daunting--if not completely scary--topic!
+This is particularly true if it is your first introduction to research. If not scary,
+many people tend to compare research with a snooze-fest (see above). While not everyone will
+share my excitement about research methods and statistics, I do think that a fundamental 
+understanding of the basics can be applicable across whatever field of study and future
+career aspirations you may have.
+
+Whatever your notions of research methods and statistics may be, my goal is to get you
+excited about them! While you may not reach the level of excitment I have for reasearch
+methods and statistics, I hope at the very least to convince you that learning some of
+the fundementals are important for you moving forward.
+
+Aside from the fact that this course is required for graduation, why should you care about
+research methods? I think it is paramount to understand the importance of this class before we delve into
+the assignments and statistics. Below I highlight several potential paths that I've observed
+across a number of undergraduate students I have mentored over the years. I try to tackle some
+misconceptions about why research and statistics knowledge is unimportant for certain career paths,
+and why everyone psychology student should care about research as much as me!
+
+## Academic Path
+Regardless of what your potential future career aspirations are, if you decide to extend your training in
+psychology past an undergraduate degree you will encounter research and statistics again. Of course, the degree and
+depth of this exposure will depend on your program. For example, I spend most of my day teaching and doing
+research and analyses (my subfield of psychology is Social Psychology). However, my clinical psychology
+peers do those things in addition to seeing clients. I'll talk about going into a "clinical" or "counseling"
+career path momentarily, but first let me talk about the importance of research for graduate school in
+general.
+
+@descutner1989 surveyed faculty members at top psychology PhD programs on what they viewed as most 
+important for incoming graduate students. They found that "Doing research" ranked number 5 on the list of
+most important qualities for incoming graduate students. This key area of expertise ranked ahead of qualities
+such as "Getting good grades", "Creativity", and "High intelligence".
+
+Further, a more recent survey of graduate students found that students rated participation in research as one of the
+most important factors that influenced their "preparedness for graduate school" [@huss2002factors].
+
+## Clinical Sub-Path
+Many psychology students are interested in being a counselor or going for a clinical PhD, focusing more on
+applied therapy and services rather than research. Oftentimes these students erroneously think that because
+they want to pursue the clinical sub-field of psychology that they will not need statistics or research methods.
+FALSE! As I mentioned in my Welcome, I started my graduate career as a Clinical Psychology student. Aside from
+the fact that one of the required courses for that major was "Research Design and Statistics", a large part of
+my clinical training was reading and evaluating scientific research articles on cutting-edge research and
+therapies. Having a foundational understanding of research methods and statistics allowed me to critically
+evaluated whether or not research on specific types of therapy or interventions was reliable and valid (
+which we will talk about later in the course). Additionally, knowing about research methods and statistics
+was essential for successfully communicating with my colleagues and clients the information I learned.
+
+Oh, and the survey I mentioned above? It was a survey of faculty at Clinical PhD programs. Even within clinical
+programs research experience is weighed heavily as an important skill for incoming graduate students! In short,
+do not underestimate the importance of research and statistics knowledge for your future academic careers!
+
+## Industry Path
+Research and statistics is important for industry, too, just like academia or clinical services.
+Hart Research Associates conducted a
+[survey](https://www.aacu.org/publications-research/periodicals/it-takes-more-major-employer-priorities-college-learning-and) 
+of over 300 employers to ask them what was important for new hires. Guess what? One of the key findings from
+the survey was that employers value cross-cutting knowledge, including research [@hart_2013]!
+
+> Employers endorse several educational practices as potentially helpful in preparing college students for workplace success.
+> These include practices that require students to conduct research and use evidence-based analysis; gain in-depth knowledge
+> in the major and analytic, problem-solving, and communication skills; and apply their learning in real-world settings.
+
+There are several questions the researchers asked that had respondents highlighting the usefulness of research experience
+in helping undergraduate students prepare for the workplace. This is further corroborated by findings that suggest that
+experiences related to research and research methods are a highly desirable skills across multiple occupational
+fields [@burrus2013].
+
+A quick personal anecdote on the importance of research knowledge across fields: Two of my most recent undergraduate
+research assistants (RAs) graduated and took jobs in industry. They had both worked with me for three years doing typical
+RA duties such as running participants, data entry, stimulus gathering and manipulation. They also took the opportunity
+to participate in local research conferences presenting their own data to peers and faculty.
+
+Having mentored them and worked with them, I was a job reference for both of these students. When I got calls from potential
+employers the thing they were most impressed with was the amount of research they did the and knowledge they had about social
+science research methods. This allowed me to talk about each students' success at being able to critically think about issues
+with a scientific mindset, independently perform research tasks successfully, and their ability to generate valuable insight
+and questions--all of which were skills that they learned by taking a class such as this, and applying the knowledge with 
+hands-on experience in our lab!
+
+# Conclusions
+In short, I believe that understanding basic research methods and statistics can be beneficial to anyone--whether
+you plan on staying in academia or continuing on for an advanced degree, or if you plan to do something in private
+business (HR, data analysis) or industry. Graduate admissions people and businesses alike value that types of
+critical thinking and applied knowledge that are inherent in fully understanding psychological and/or behavioral
+research methods.
+
+Aside from taking this course, you can further your research experience by joining a lab (check out the World Campus
+online research lab!), or volunteering at a local university helping a faculty member with their research!
+
+# References
