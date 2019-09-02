@@ -36,52 +36,54 @@ After that, feel free to navigate to the appropriate supplemental lesson plan. I
 on a rolling basis as the course progresses.
 
 ## Lesson 1: Introduction to Research
-`r advdate(mon, 1)`
+**`r advdate(mon, 1)`** \
 
-**Supplemental Commentary:** \
-[Why should I care about research?](lessons/important_research.html)
+1. [Why should I care about research?](lessons/important_research.html)
 
 ## Lesson 2: Hypothesis Generation
-`r advdate(mon, 2)`
+**`r advdate(mon, 2)`** \
+
+1. [IV, DV, What-the-V!?](lessons/iv_dv.html) \
+2. [What is a good research topic?](lessons/good_topic.html)
 
 ## Lesson 3: Ethics in Research
-`r advdate(mon, 3)`
+**`r advdate(mon, 3)`**
 
 ## Lesson 4: Paper Writing
-`r advdate(mon, 4)`
+**`r advdate(mon, 4)`**
 
 ## Lesson 5: Measurement and Variables
-`r advdate(mon, 5)`
+**`r advdate(mon, 5)`**
 
 ## Lesson 6: Reliability and Validity
-`r advdate(mon, 6)`
+**`r advdate(mon, 6)`**
 
 ## Lesson 7: Surveys and Sampling
-`r advdate(mon, 7)`
+**`r advdate(mon, 7)`**
 
 ## Lesson 8: Hypothesis Testing and Inferential Statistics
-`r advdate(mon, 8)`
+**`r advdate(mon, 8)`**
 
 ## Lesson 9: One-way Experimental Design
-`r advdate(mon, 9)`
+**`r advdate(mon, 9)`**
 
 ## Lesson 10: Factorial Experimental Design
-`r advdate(mon, 10)`
+**`r advdate(mon, 10)`**
 
 ## Lesson 11: Correlational Design
-`r advdate(mon, 11)`
+**`r advdate(mon, 11)`**
 
 ## Lesson 12: Naturalistic Observation Methods
-`r advdate(mon, 12)`
+**`r advdate(mon, 12)`**
 
 ## Lesson 13: Internal and External Validity
-`r advdate(mon, 13)`
+**`r advdate(mon, 13)`**
 
 ## Break
-`r advdate(mon, 14)`
+**`r advdate(mon, 14)`**
 
 ## Final Research Proposal
-`r advdate(mon, 15)`
+**`r advdate(mon, 15)`**
 
 ## Lesson 14: Quasi-Experimental Design
-`r advdate(mon, 16)`
+**`r advdate(mon, 16)`**

@@ -1,0 +1,77 @@
+---
+title: "Finding a Good Research Topic"
+logo: ../img/psu-logo.png
+css: ../css/dna.css
+bibliography: ../bib/psych_301.bib
+csl: ../csl/apa_5th.csl
+output: 
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_depth: 4
+    toc_float: no
+    code_folding: hide
+---
+
+# The Proverbial "Research Topic"
+
+# Beyond "PsycARTICLES"
+
+## Is Wikipedia OK?
+
+# Checklist for a GREAT Research Topic
+Anyone can come up with a research topic that that would like to study
+or at least further investigate. However, what differentiates a "good" topic
+from one that is "great"? In my mind (and I am grading you) there are several
+qualifications that differentiate "good" from "great." So, before submitting
+make sure you ask yourself (and/or confirm) these statements:
+
+  1. My research topic is definitely "testable." If you propose a study idea to
+  "time travel" I'll think you are a super cool nerd, but I'll also fail you
+  because I want your research to be feasible within the bounds or our reality
+  and thus actually testable!
+  
+  2. My research topic is definitely "falsifiable." If you recall from the readings,
+  a great research question is setup not in terms of what you expect, but what you
+  would **not** expect (i.e., as if you were the most skeptical person ever).
+  Therefore, you need to be able to state your research question in "falsifiable"
+  terms!
+  
+  3. To my knowledge my research question has not been asked before, or if it
+  has I am asking about a new facet about it, or in a new and imaginative way!
+  in other words, "to my knowledge, has anyone asked this question before?"
+  
+  4. My research topic is grounded in pre-existing literature. Does your research
+  question build upon previous work or ask something "out of the blue"? If the
+  latter, it's probably wise to reconsider. I'd love to "Thanos" *Snap* gun
+  violence out of existence, but that is just not feasible. Perhaps start smaller
+  with a hypothesis such as "What is common among the top 5% of counties that see
+  the most gun violence?"
+  
+  5. "Can I test this?" Simply, can *you* as the researcher think of a way to test
+  this idea? If not, why not? Just because you can't does not mean it is a bad idea!
+  Perhaps you just need some inspiration from someone else!
+  
+  6. OK, this is really getting into it, but ask yourself "have I cross-referenced
+  my most pertinent research article with what has been cited in the article and
+  in Wikipedia?" If not, do it! Do it now! You have to see what others are researching,
+  especially the most recent of research!
+  
+  7. How will I test this question? Yes, it *is* testable, but how will you actually test
+  it as a scientist? Make sure it conforms to the scientific method, and you would have
+  the resources to test it (in reality)
+  
+  8. How will I analyze it? You might not know exactly the right test to analyze your
+  results right now (e.g., t-test, ANOVA, linear model), but hopefully by the end of
+  this course you will! At the very least, you can make sure that your research
+  question is **NOT** correlation or descriptive. Make sure it is experimental, and
+  at least a 2 by 2 experimental design
+  
+  9. Text.
+  
+  10. Finally, ask yourself, "what impact does/could this research have on society at
+  large?" Even if this is consider "basic" science, thinking about the ramifications of
+  this research question can help you formulate a Discussion and "broader impact" section
+  to your research paper!
+
+
