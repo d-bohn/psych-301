@@ -14,17 +14,119 @@ output:
 ---
 
 # The Proverbial "Research Topic"
+I've written more research papers than I can remember in graduate school.
+Writing them used to be a lot of work, but as I learned some tips and tricks it
+became a lot easier, and even fun. I think about it as if I were a
+detective trying to uncover specific topics. Here, I'll walk you through
+my research process, and how I find information about a topic I am interested in.
 
-# Beyond "PsycARTICLES"
+First, you brainstorm a research question. Remember, your research question has to be
+considered a true experiment with at least two manipulated variables with two levels
+each. This is called a two-by-two experimental design.
+
+Remember, you don't have to come up with a completely new idea. Perhaps you read an
+interesting article and want to test the ideas presented in that article in a different
+way, or extend them somehow. This is perfectly acceptable! In fact, this is how science
+is built! Science slowly builds on previous work. This is so ingrained in the ideals of
+science, take a look at the quote on the Google Scholar landing page:
+
+<center>
+
+![](../imgs/standing_giants.png)
+
+</center>
+
+"Stand on the shoulders of giants," or, base your work on what has been done before! Learn from it
+to make your own better!
+
+# Finding Information
+OK, what to do once you have an idea. For illustrative purposes, I'm going to attempt to research
+the topic of "perceptions of emoji use in romantic relationships."
+
+## Beyond "PsycARTICLES"
+PsycARTICLES is great, but it is run by the American Psychological Association (APA), and
+thus only offers search capabilities for APA journals. I rarely ever use PsycARTICLES, and
+instead opt to go straight to Google Scholar for most of my preliminary research.
+
+## Google Scholar
+The trick to a successful Google Scholar search is determining the appropriate language to use
+in the search. For example, if I go too broad ("emoji use"), I get back research articles
+that have nothing to do with my primary question.
+
+<center>
+
+![](../imgs/broad_emoji.png)
+
+</center>
+
+Emoji use on food preference? Cool! But unrelated to my primary research question.
+
+Similarly, if I go too narrow, I will miss a lot of related research that could help
+inform my research topic. Here I start with a fairly broad search term.
+
+<center>
+
+![](../imgs/emoji_use_good.png)
+
+</center>
+
+And you can see that using this broad search term came up with what appears to be a highly relevant
+article as the first hit!
+
+After I find a few articles in this manner, I'll look at the "cited by" page to see who else is
+citing these articles, and if they are at all related to my topic. I'll also see if any of the
+researchers on the articles I found are on multiple articles. If so, I'll go to both their Google
+Scholar page and their lab website to dig up more information.
+
+### Google Scholar Tips and Tricks
+  
+  - Use the "time range" feature on the side panel to get current
+  research! You don't want to be citing something from the 80's if
+  more current research is available!
+  
+  - If you find a *really* good research article that is directly
+  related to your topic, make sure to click the "cited by" link
+  to see what other articles cite that one. Chances are that it
+  is highly similar research, and can help you in your quest for
+  more articles!
+  
+<center>
+
+![](../imgs/cited_by.png)
+
+</center>
+  
+  - If you keep seeing an author name pop up in the articles you are reading,
+  be sure to check their Google Scholar profile (by clicking their name), or
+  visiting their lab website. Chances are that you can find additional and/or
+  related work through either of these mechanisms.
 
 ## Is Wikipedia OK?
+Despite what your grade school teacher has always said, Wikipedia is not inherently bad
+when it comes to researching. In fact, it can be a good place to start your research
+and get a primer on a specific topic.
+
+What I find it most useful for is pointing me to additional sources of information. At the
+end of each Wikipedia article is a [References](https://en.wikipedia.org/wiki/Emoji#References)
+section. I searched for "Emoji" on Wikipedia and took a look at what the references were. I
+found what looked to be a reputable source pointing to a University of Michigan study.
+
+<center>
+
+![](../imgs/wiki_emoji.png)
+
+</center>
+
+Following the link took me to a press release on a study examining why some Emojis are
+more popular than others. The press release also links to the original research article,
+which only adds to its credibility!
 
 # Checklist for a GREAT Research Topic
-Anyone can come up with a research topic that that would like to study
+Anyone can come up with a research topic that they would like to study,
 or at least further investigate. However, what differentiates a "good" topic
 from one that is "great"? In my mind (and I am grading you) there are several
 qualifications that differentiate "good" from "great." So, before submitting
-make sure you ask yourself (and/or confirm) these statements:
+your topic make sure you ask yourself (and/or confirm) these statements:
 
   1. My research topic is definitely "testable." If you propose a study idea to
   "time travel" I'll think you are a super cool nerd, but I'll also fail you
@@ -48,28 +150,22 @@ make sure you ask yourself (and/or confirm) these statements:
   with a hypothesis such as "What is common among the top 5% of counties that see
   the most gun violence?"
   
-  5. "Can I test this?" Simply, can *you* as the researcher think of a way to test
-  this idea? If not, why not? Just because you can't does not mean it is a bad idea!
-  Perhaps you just need some inspiration from someone else!
-  
-  6. OK, this is really getting into it, but ask yourself "have I cross-referenced
+  5. OK, this is digging deep, but ask yourself "have I cross-referenced
   my most pertinent research article with what has been cited in the article and
   in Wikipedia?" If not, do it! Do it now! You have to see what others are researching,
   especially the most recent of research!
   
-  7. How will I test this question? Yes, it *is* testable, but how will you actually test
+  6. How will I test this question? Yes, it *is* testable, but how will you actually test
   it as a scientist? Make sure it conforms to the scientific method, and you would have
   the resources to test it (in reality)
   
-  8. How will I analyze it? You might not know exactly the right test to analyze your
+  7. How will I analyze it? You might not know exactly the right test to analyze your
   results right now (e.g., t-test, ANOVA, linear model), but hopefully by the end of
   this course you will! At the very least, you can make sure that your research
   question is **NOT** correlation or descriptive. Make sure it is experimental, and
   at least a 2 by 2 experimental design
   
-  9. Text.
-  
-  10. Finally, ask yourself, "what impact does/could this research have on society at
+  8. Finally, ask yourself, "what impact does/could this research have on society at
   large?" Even if this is consider "basic" science, thinking about the ramifications of
   this research question can help you formulate a Discussion and "broader impact" section
   to your research paper!

@@ -48,16 +48,19 @@ two, and my thought process when I can't decide which variable goes where in
 theoretical space.
 
 # Independent Variables
-Your book describes an **independent variable** (IV) as one that is being manipulated by the
+Your textbook describes an **independent variable** (IV) as one that is being manipulated by the
 researchers. In other words, what is the researcher directly impacting when she or he is
 conducting the study? In most regards this is a fair assessment of an IV.
 
 However, IVs are not always manipulated by the researcher, and to think that they always
 are is limiting to what you can consider a "true" IV. Take for example, "gender".
-Perceived gender is often a variable of interst in scientific study. However, one
+Perceived gender is often a variable of interest in scientific study. However, one
 cannot simply "manipulate" gender at a whim. So does this not count as a true IV? Of
 course not! Our definition of an IV needs to allow for potential variables of interest
-that cannot be directly manipulated by the researcher.
+that cannot be *directly* manipulated by the researcher.
+
+
+
 
 ## Examples of IVs
 All right, let's take a look at a few examples. We'll start off with an example
@@ -73,36 +76,38 @@ I'll take a couple examples from this field so I don't steal ideas from anyone.
 
 **What is the IV?**: <i class="spoiler">Treat status: Does the owner have a treat?</i>
 
-> A comparative psychologist is interested in examining Oxycontin levels in dogs
-> when their tails are wagging vs. when they are not wagging. This psychologist
-> takes samples of the "bonding hormone" Oxycontin when dogs' tails are wagging
-> furiously vs. little-to-none. Average oxytocin levels are compared after six
-> weeks of samples.
+> A psychologist is interested in examining the effectiveness of different types of
+therapy animals on stress levels of children with anxiety. The psychologist randomly
+assigns children to interact with therapy dogs, therapy cats, therapy bunnies, and
+a therapy pony. Before and after each session with the animal, the cortisol levels
+(stress hormone) of the child is measured.
 
-**What is the IV?**: <i class="spoiler">Tail wagging: is it wagging a lot or not very much?</i>
+**What is the IV?**: <i class="spoiler">Type of animal: Dog, cat, bunny, pony.</i>
 
-> A clinical psycholgist is curious about the effeciveness of coginitive behavioral therapy (CBT)
-> on treatment of Cyclothymia. They team with a reserach university and randomly assign
+> A clinical psychologist is curious about the effectiveness of cognitive behavioral therapy (CBT)
+> on treatment of Cyclothymia. They team with a research university and randomly assign
 > 100 potential clients to either receive CBT or receive traditional medication treatment only.
 > After 8 weeks of treatment the team assesses how depressed clients are on Beck depression
 > inventory.
 
-**What is the IV?**: <i class="spoiler">Treatment: Whether the client was in the CBT or traditional treatment.</i>
+**What is the IV?**: <i class="spoiler">Treatment: Whether the client was in the CBT or
+traditional treatment.</i>
 
-> A social psychologist is interested in whether primates exhibt facial expressions similar to
+> A social psychologist is interested in whether primates exhibit facial expressions similar to
 > humans in situations that typically elicit disgust in humans. S/he partners with a zoo to
 > setup an experiment in which the primates' normal food rations are given to them as normal,
 > except they are either under-ripe, just right, or rotten.
 
 **What is the IV?**: <i class="spoiler">Fruit ripeness: Is the food just right?</i>
 
-> A sports psychologist is intersted in examining the effect of referee calls on women's
-> soccer player performence. S/he examines the amount of calls on player goals over the
-> course of a one year period.
+> A sports psychologist is interested in examining the effect of referee calls on women's
+> soccer player performance. S/he examines the relationship between number of calls made on specific
+> player and the number of goals they make over the course of a one year period.
 
-**What is the IV?**: <i class="spoiler">Correlational study! referre calls and goals are both variables of interst!</i>
+**What is the IV?**: <i class="spoiler">Correlational study! Referee calls and goals are
+both variables of interest!</i>
 
-> A school psycholigist wants to know if extended morning homeroom increases student performance
+> A school psychologist wants to know if extended morning homeroom increases student performance
 > on classes during the first half of the school day. S/he contacts schools within her/his school
 > district to setup extended homeroom time for 1/3 of schools in the district, shortening homeroom
 > classes for another 1/3, and leaving the homeroom as is for the other 1/3.
@@ -110,27 +115,79 @@ I'll take a couple examples from this field so I don't steal ideas from anyone.
 **What is the IV?**: <i class="spoiler">Homeroom time: extended, normal, or shortened.</i>
 
 # Dependent Variables
-Text.
+Your textbook defines a ***dependent variable*** (DV) as one that is (can be) influenced by the
+*independent variable*. Again, for most cases this is a good representation of an IV,
+however, I like to think of a DV as "What is (are) the researcher(s) measuring in this
+study?" For example: sure, the gender of an individual might influence how they express a particular 
+emotion, but perceived gender might not be what is of primary interest to the researcher. Indeed,
+if the researchers do not have a hypothesis about how perceived gender might influence expressions,
+it is neither a DV or an IV!
 
 ## Examples of DVs
+Let's go back to our IV examples and think about what the DVs of each are. Remember, what
+is being measured by the researcher in each study? Or, what is being "caused" by the IV?
+
 > A psychologist is interested in examining whether or not dogs obey their owner's
 > commands when she or he is holding a treat vs. when she or he merely speaks the
-> command.
+> command. Average dog compliance is summed after 6 months of intervention.
 
-**What is the DV**: 
+**What is the DV?**: <i class="spoiler">Average compliance.</i>
+
+> A psychologist is interested in examining the effectiveness of different types of
+> therapy animals on stress levels of children with anxiety. The psychologist randomly
+> assigns children to interact with therapy dogs, therapy cats, therapy bunnies, and
+> a therapy pony. Before and after each session with the animal, the cortisol levels
+> (stress hormone) of the child is measured.
+
+**What is the DV?**: <i class="spoiler">Cortisol levels in children.</i>
+
+> A clinical psychologist is curious about the effectiveness of cognitive behavioral therapy (CBT)
+> on treatment of Cyclothymia. They team with a research university and randomly assign
+> 100 potential clients to either receive CBT or receive traditional medication treatment only.
+> After 8 weeks of treatment the team assesses how depressed clients are on Beck Depression
+> Inventory.
+
+**What is the DV?**: <i class="spoiler">Scores on the Beck Depression Inventory after 8 weeks of
+treatment.</i>
+
+> A social psychologist is interested in whether primates exhibit facial expressions similar to
+> humans in situations that typically elicit disgust in humans. S/he partners with a zoo to
+> setup an experiment in which the primates' normal food rations are given to them as normal,
+> except they are either under-ripe, just right, or rotten.
+
+**What is the DV?**: <i class="spoiler">Disgust response of primates. This would have to be measured
+using something similar to the Facial Action Coding System in humans</i>
+
+> A sports psychologist is interested in examining the effect of referee calls on women's
+> soccer player performance. S/he examines the relationship between number of calls made on specific
+> player and the number of goals they make over the course of a one year period.
+
+**What is the DV?**: <i class="spoiler">Correlational study! Referee calls and goals are both variables
+of interest!</i>
+
+> A school psychologist wants to know if extended morning homeroom increases student performance
+> on classes during the first half of the school day. S/he contacts schools within her/his school
+> district to setup extended homeroom time for 1/3 of schools in the district, shortening homeroom
+> classes for another 1/3, and leaving the homeroom as is for the other 1/3.
+
+**What is the DV?**: <i class="spoiler">Student performance, whether this is grades or attendance, etc.</i>
 
 # What about Correlational Studies?
-
-# No IVs or DVs?
+Correlational studies are different from true experimental designs that have something being manipulated
+and something being measured. Correlational studies measure both variables of interest to examine
+the linear relationship between the two. If neither variable is being directly manipulated, or used
+to predict how something might change (think perceived gender), then the study is most likely
+correlational in design.
 
 # Summary
-OK, fine. That's a lot of text. You want the TLDR version. I'm not that
+OK, fine. That's a lot of text. You want the TLDR version, don't you? I'm not that
 bitter about it. Here you go...
 
-| **Variable** |                                                             **Questions to determine** |
-|:-----------: |:-------------------------------------------------------------------------------------: |
-|  Independent |  What's being manipulated? What's being measured but not an outcome measure? |
-|    Dependent |  What is the researcher's primary interest? What are they measuring? |
+|  **Variable** |                                                                **Questions to determine**         |
+|:------------: |:-------------------------------------------------------------------------------------------------:|
+|   Independent |  What's being manipulated? What's being measured but not an outcome measure?                      |
+|     Dependent |  What is the researcher's primary interest? What are they measuring? What is dependent on the IV? |
+| Correlational |  Both the IV and DV are measured (and for all purposes the same); no causal direction             |
 
 ***Disclaimer***: New and advanced studies are coming out all of the time. What one
 considers an IV others may not. If you are unsure or are confused about what constitutes

@@ -43,8 +43,8 @@ on a rolling basis as the course progresses.
 ## Lesson 2: Hypothesis Generation
 **`r advdate(mon, 2)`** \
 
-1. [IV, DV, What-the-V!?](lessons/iv_dv.html) \
-2. [What is a good research topic?](lessons/good_topic.html)
+1. [IV, DV, What-the-V!?](lessons/iv_dv_what.html) \
+2. [What is a good research topic?](lessons/finding_research_topic.html)
 
 ## Lesson 3: Ethics in Research
 **`r advdate(mon, 3)`**
