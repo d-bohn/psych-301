@@ -52,6 +52,8 @@ on a rolling basis as the course progresses.
 ## Lesson 4: Paper Writing
 **`r advdate(mon, 4)`**
 
+1. [Making a hypothesis for a scientific manuscript?](lessons/hypothesis_gen.html)
+
 ## Lesson 5: Measurement and Variables
 **`r advdate(mon, 5)`**
 

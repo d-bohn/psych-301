@@ -1,0 +1,14 @@
+---
+title: '"I feel" versus "I think" Statements'
+logo: ../img/psu-logo.png
+css: ../css/dna.css
+bibliography: ../bib/psych_301.bib
+csl: ../csl/apa_5th.csl
+output: 
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_depth: 4
+    toc_float: no
+    code_folding: hide
+---

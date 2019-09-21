@@ -1,0 +1,141 @@
+---
+title: "Hypothesis Generation: How to write a good hypothesis ready for manuscripts"
+logo: ../img/psu-logo.png
+css: ../css/dna.css
+bibliography: ../bib/psych_301.bib
+csl: ../csl/apa_5th.csl
+output: 
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_depth: 4
+    toc_float: no
+    code_folding: hide
+---
+# Hypothesis Generation
+Generating scientific ideas and turning them into a hypothesis or multiple hypotheses can
+be tricky, especially if the process is new. A scientific hypothesis needs to be both
+specific and succinct enough to let the reader know what the research question being
+tested is, how it will be tested, and what the expected results are. 
+
+I will briefly walk through the list of questions I ask myself when I am trying to write a
+hypothesis for a scientific manuscript. For this exercise, I will explore emoji use.
+Note that I have not thoroughly researched this topic, this is just for illustrative
+purposes.
+
+# Steps for generating a good hypothesis
+Before we walk through each step, remember:
+
+  - Your research question has to be *testable*
+  
+  - Your research question needs to include two IVs and 1 DV
+  
+    - Each IV needs at least two levels, and one of the IVs needs to be able to be
+    manipulated (i.e., able to have random assignment of participants)
+
+## 1. What am I interested in?
+A good hypothesis starts with a good question. Ask yourself what you are interested in about
+the topic, what aspects of this topic are seem understudied or have some questions that
+should have been researched but have not been investigated yet.
+
+For this example, one thing that I am interested in is how individuals that use emojis in texts
+are viewed by others. I could just as easily be interested in exploring whether individuals who
+read text requests that contain emojis are more likely to comply with the request then if it is
+just straight text. Let's focus on the first one. This is a relatively simple question that can
+be unpacked into a full fledged hypothesis.
+
+Note that both of the example areas of interest are testable (or, rather, falsifiable).
+
+### 1-2. Narrow the scope of your question
+OK, I am interested in the perception of individuals who use emojis. Let's narrow the scope
+and ask a more specific question: are individuals who use emojis in their texts seen any
+differently than those who do not use emojis? By narrowing the focus to compare just emoji
+users to non-emoji users makes this a more feasible question.
+
+### 1-3. Has this been tested before?
+Once you settle on a question that is testable, you need to do the necessary background research
+on whether or not this question has been asked before. Refer to
+
+1. [IV, DV, What-the-V!?](lessons/iv_dv_what.html) \
+2. [What is a good research topic?](lessons/finding_research_topic.html)
+
+for how to conduct a proper background literature review. Remember, researching and background
+literature reviews do not stop until the manuscript is complete!
+
+### 1-4. What am I expecting the results to be?
+You should not move on to the other steps until you have a firm understanding of what you would expect
+the results to be. So, as of now my research question is
+
+> Are individuals who use emojis in their texts seen any differently than those who do not use emojis?
+
+What do I expect to happen? Well, intuitively, perhaps those who use emojis are seen as friendlier than
+those who do not because emojis imply a connection between the sender and the reader that simple text
+does not.
+
+Or, perhaps those who use emojis are viewed as younger than those who do not (that is, emojis are a relatively
+new invention). And I know from the literature on person perception that younger (babyface looking) people are seen
+as more trustworthy and happy than those who appear older and more mature looking.
+
+OK, from my two intuitive insights, it appears as those a more focused research question is naturally forming.
+Combining my insights, I can say that those who use emojis in texts will be viewed overall more positive than
+those who do not use emojis. Positive in this case includes being viewed as younger, friendlier, more 
+trustworthy, and less mature than those who do not use emojis.
+
+## 2. How will I test this?
+OK, to summaries at this point, my research question is coming together. Overall, I predict a positivity bias
+for those who use emojis in their texts compared to those who do not. Now, I need to think about how I can
+test this hypothesis. One idea is to show participants fake iPhone messages either with or without emojis
+present and have them rate the sender on a number of qualities. For example, I could show some participants
+an image of a fake text message chain with emojis, and others the same conversation without emojis.
+
+Perhaps something such as this for the emoji condition:
+
+> Hi! I'm excited to take part in this experiment with you 😆 I just hope the researchers don't make us
+do anything too crazy 💊💉🧬🦠🧪
+
+Versus something like this for the non-emoji condition:
+
+> Hi! I'm excited to take part in this experiment with you. I just hope the researchers don't make us
+do anything too crazy
+
+Then, after participants see one of the two text messages, they rate the sender on how "friendly",
+"trustworthy", "young/old", and "dominant" they appear on a 7 point Likert-type scale.
+
+## 3. What are my variables?
+Next, I need to make sure I know what my variables are, and if they meet the requirements of the
+Research Proposal.
+
+1. IV: Emojis in the texts or plain text
+
+  - This is the IV that is able to be manipulated, and has two levels (emojis present vs. not present)
+  
+2. IV: Nothing yet! Dang...
+
+3. DV: Perceptions of text senders
+
+For the second IV, perhaps I could explore whether or not there is an interaction with participant gender.
+That is, do I think that both males and females will respond similarly to emoji and non-emoji users? Or,
+what about the gender of the sender? Or age of the observer, or age of the sender? Let's focus on sender
+gender.
+
+2. IV: Sender gender
+
+  - Not able to be manipulated, but it does have at least two levels (apparent males vs. apparent females)
+
+## 4. How do I put this in scientific hypothesis form?
+Finally, I come to the point where I can attempt to put this in a scientific manuscript form. I'll write
+a hypothesis paragraph that I could typically include in the "Overview" section of a manuscript's
+Introduction section.
+
+> The current experiment sought to examine whether or not perceptions of emoji users are quantitatively
+different than non-emoji users. Specifically, I hypothesized that observers who view messages that
+contain emojis will view those senders as friendlier, more trustworthy, younger, and less dominant than
+messages from senders without emojis. Additionally, I predict that sender gender will interact
+with positive perceptions of the sender, such that female senders will benefit from emoji use (i.e., be viewed
+as more positive) than male senders.
+
+# Conclusions
+Yes, hypothesis generation can be a bit difficult if you have never done it before, especially trying to get
+the scientific lingo down. These things come with practice, and hopefully following the four steps that
+I outlined above can help you become more familiar with the process!
+
